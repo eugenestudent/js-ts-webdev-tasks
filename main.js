@@ -52,7 +52,7 @@ function createCard(cardInfo) {
         card.style.backgroundColor = cardInfo.cardBackground;
     }
 
-    /* Card Header */
+    /* Card's Header */
     const header = document.createElement('h2');
     header.classList.add('card-header');
     
@@ -71,7 +71,7 @@ function createCard(cardInfo) {
     
     card.appendChild(content);
 
-    /* Card Button */
+    /* Card's Button */
     const button = document.createElement('button');
     button.classList.add('card-button');
     
