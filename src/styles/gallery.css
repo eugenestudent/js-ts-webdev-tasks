@@ -1,0 +1,34 @@
+h3 {
+color: #FE772D;
+font-family: "Jolly Lodger";
+font-size: 58px;
+font-weight: 400;
+text-align: center;
+text-transform: uppercase;
+margin-top: 4vh;
+margin-bottom: 4vh;
+}
+
+#memories-section {
+    display: grid;             
+    grid-template-columns: repeat(5, 1fr);  
+    grid-template-rows: repeat(2, auto);    
+    gap: 1rem;
+    justify-items: center;
+    align-items: center;
+    padding: 2rem;                
+}
+
+.memory-image {
+    width: 100%;                 
+    max-width: 200px;            
+    display: flex;
+    justify-content: center;     
+}
+
+.memory-image img {
+    width: 100%;                
+    height: auto;               
+    border-radius: 10px;
+    object-fit: cover;
+}

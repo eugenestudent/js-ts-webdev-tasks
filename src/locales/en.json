@@ -1,0 +1,16 @@
+{
+    "title": "Party Time!",
+    "date": "31 October 2023",
+    "subtitle": "It's Halloween Party O'Clock!",
+    "memories": "Halloween Memories",
+    "menu": {
+      "home": "Home",
+      "gallery": "Gallery",
+      "about": "About Party",
+      "reservation": "Reservation",
+      "contacts": "Contacts"
+    },
+    "button": "Reservation",
+    "footer": "phone reservation? (+1) 987 46 52"
+  }
+  

@@ -1,0 +1,8 @@
+.SM {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1vw;
+    padding-top: 1vh;
+    padding-bottom: 8vh;
+}
